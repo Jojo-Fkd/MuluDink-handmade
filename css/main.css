@@ -42,29 +42,23 @@ button {
 
 @font-face {
   font-family: "Bogart-light";
-  src: url("/fonts/BOGARTLIGHTTRIAL.TTF") format("truetype"),
-    url("/fonts/Bogart-light.woff2") format("woff2");
+  src: url("/fonts/Bogart-light.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Bogart-medium";
-  src: url("/fonts/BOGARTMEDIUMTRIAL.TTF") format("truetype"),
-    url("/fonts/Bogart-medium.woff2") format("woff2");
+  src: url("/fonts/Bogart-medium.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Bogart-bold";
-  src: url("/fonts/BOGARTBOLDTRIAL.TTF") format("truetype"),
-    url("/fonts/Bogart-bold.woff2") format("woff2");
+  src: url("/fonts/Bogart-bold.woff2") format("woff2");
 }
 
 @font-face {
   font-family: "Bogart-regular";
-  src: url("/fonts/BOGARTREGULARTRIAL.TTF") format("truetype"),
-    url("/fonts/Bogart-regular.woff2") format("woff2");
+  src: url("/fonts/Bogart-regular.woff2") format("woff2");
 }
-
-@import url("https://fonts.googleapis.com/css2?family=Alan+Sans:wght@300..900&display=swap");
 
 :root {
   --BG-COLOR: rgb(216, 211, 211);
@@ -890,3 +884,4 @@ p.footer-end a:any-link {
     font-size: 0.8rem;
   }
 }
+
